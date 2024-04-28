@@ -1,0 +1,74 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .genre-filter-container {
+    margin-bottom: 20px;
+    
+  }
+
+  .genre-filter{
+    background-color: rgb(233, 232, 232);
+    padding: 15px;
+    border-radius:5px;
+    
+  }
+
+  .one{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: 25px;
+  }
+  
+
+
+  .genre-button{
+   
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    font-size: 14px;
+    /* background-color: #007bff; */
+    background-color: rgb(184, 181, 181);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    width: auto;
+    white-space: nowrap;
+    /* min-width: 102px; */
+    height: 33.60px;
+  }
+
+
+  
+  
+  .movie-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .movie-table th{
+    border: 1px solid #6f6e6e;
+    padding: 8px;
+    text-align: left;
+    background-color: rgb(243, 238, 238);
+  }
+  
+  .movie-table td {
+    border: 1px solid #c7c7c7;
+    padding: 8px;
+    text-align: left;
+  }
+  
+
+  .movie-table tr:hover {
+    background-color: rgb(243, 238, 238);
+}
