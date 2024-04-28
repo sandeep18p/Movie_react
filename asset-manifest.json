@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//sandeep18p.github.io/Movie_react/static/css/main.195d9274.css",
+    "main.js": "/https//sandeep18p.github.io/Movie_react/static/js/main.a2cda322.js",
+    "static/js/453.6f2e229a.chunk.js": "/https//sandeep18p.github.io/Movie_react/static/js/453.6f2e229a.chunk.js",
+    "index.html": "/https//sandeep18p.github.io/Movie_react/index.html",
+    "main.195d9274.css.map": "/https//sandeep18p.github.io/Movie_react/static/css/main.195d9274.css.map",
+    "main.a2cda322.js.map": "/https//sandeep18p.github.io/Movie_react/static/js/main.a2cda322.js.map",
+    "453.6f2e229a.chunk.js.map": "/https//sandeep18p.github.io/Movie_react/static/js/453.6f2e229a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.195d9274.css",
+    "static/js/main.a2cda322.js"
+  ]
+}
